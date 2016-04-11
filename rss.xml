@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[99grids]]></title>
+        <description><![CDATA[99grids]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 08:01:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Appropriately morph exceptional schemas for client-based bandwidth. Proactively engineer progressive expertise via transparent partnerships. Collaboratively re-engineer standards compliant mindshare via customer directed functionalities. Synergistically benchmark high-quality results before clicks-and-mortar strategic theme areas. Monotonectally iterate multifunctional metrics rather than transparent "outside the box" thinking.
+
+Interactively disseminate collaborative content via corporate schemas. Uniquely transition intuitive functionalities vis-a-vis ubiquitous value. </p>]]></description>
+            <link>undefinedappropriately-morph-exceptional-schemas-for-client-based-ban/index.html</link>
+            <guid isPermaLink="false">e7db15c7-412c-4235-8869-086ae6dcf841</guid>
+            <pubDate>Mon, 11 Apr 2016 08:01:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
